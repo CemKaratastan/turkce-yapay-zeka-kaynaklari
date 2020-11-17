@@ -60,6 +60,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Data Science ve Python](https://www.udemy.com/data-science-sfrdan-uzmanlga-veri-bilimi-2/) (Kaan Can Yılmaz)
 * [Data Visualization](https://www.udemy.com/data-visualization-adan-zye-veri-gorsellestirme-3/) (Kaan Can Yılmaz)
 * [Makine Öğrenmesi](https://www.udemy.com/machine-learning-ve-python-adan-zye-makine-ogrenmesi-4/) (Kaan Can Yılmaz)
+* [Deep Learning Türkçe Ders Kaynağı] (https://atcold.github.io/pytorch-Deep-Learning/tr/week01/01-1/)(İrem Demirtaş)
 
 ## ALGORİTMALAR
 
